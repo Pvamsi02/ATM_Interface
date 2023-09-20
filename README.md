@@ -34,3 +34,14 @@ Atm Interface
 <hr/>
 
 - Quit
+
+ <hr/>
+
+ - Login DataBase <br/>
+ ![image](https://github.com/Pvamsi02/ATM_Interface/assets/112920388/4e4ef64f-d857-48c6-9f61-6a2bbe2a899d)
+<hr/>
+
+
+- Details DataBase<br/>
+![image](https://github.com/Pvamsi02/ATM_Interface/assets/112920388/18227f5c-9cda-48ff-8587-e13f8477f7f9)
+
